@@ -1,0 +1,18 @@
+エラーコード,変数名,コメント
+1,mbOKNG,OK応答
+2,-,
+3,enOmuronProtocol1_SendErrir,Omuron Protocol1 送信エラー
+4,enOmuronProtocol1_RecvErrir,Omuron Protocol1 受信エラー
+5,-,
+6,enOmuronProtocol2_SendErrir,Omuron Protocol2 送信エラー
+7,enOmuronProtocol2_RecvErrir,Omuron Protocol2 受信エラー
+8,enOmuronProtocol2_MeasureRecvErrir,Omuron Protocol2 計測結果受信エラー
+9,-,
+10,enErr10,
+11,enErr11,
+12,enErr12,
+13,enErr13,
+14,enErr14,
+15,enErr15,
+16,enErr16,
+17,enErr17,
